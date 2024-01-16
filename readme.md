@@ -1,4 +1,4 @@
-## AppRTC - Kurento Example
+### AppRTC - Kurento Example
 
 This is a simple example project in nodejs to demonstrate the compatibility of the [AppRTCDemo](https://github.com/njovy/AppRTCDemo) Android App with the [Kurento Media Server](http://www.kurento.org/).
 
